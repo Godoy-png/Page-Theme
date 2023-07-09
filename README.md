@@ -1,6 +1,4 @@
 # Page-Theme
-
-### Veja [aqui](https://page-theme.vercel.app/)
 ### Look [here](https://page-theme.vercel.app/)
 
 This is the page with the light theme.
